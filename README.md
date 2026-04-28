@@ -6,7 +6,7 @@ The Industry was investigated, to know what are the challenges that this kind of
 
 A companie with this caracteristics usually faces challenges in customer retention, logisticts due to the DTC model, the diferents regions where the delivery price change, demand due to seasons but also the kid's needs and tastes.
 
-Analytical focus: Customer retention - Pricing & Profitability
+For this case This analysis is focused on Customer retention - Pricing & Profitability. 
 
 Dimensions tables:
 - Customers
